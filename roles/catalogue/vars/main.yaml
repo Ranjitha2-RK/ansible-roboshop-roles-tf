@@ -1,1 +1,1 @@
-MONGODB_HOST: mongodb.daws86s.sbs
+MONGODB_HOST: mongodb-{{ env }}.daws86s.sbs
